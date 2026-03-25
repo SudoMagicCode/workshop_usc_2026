@@ -13,7 +13,13 @@
 
 This short 2-hour workshop will give an introduction to TouchDesigner via a crash-course in network building, working with different operator families, and exploring realtime inputs via the [TouchDesigner Mediapipe plugin](https://github.com/torinmb/mediapipe-touchdesigner).
 
-During the workshop we'll create everything together so you have the hands on experience of building networks yourself. While that's great for working in the moment, sometimes you want (or need) an extra reference. This repo contains all of the exercises we've gone over together in the workshop, along with additional examples to learn more of the fundamentals of TouchDesigner.
+This repo contains all of the exercises we've gone over together in the workshop, along with additional examples to learn more of the fundamentals of TouchDesigner. 
+
+To see a step-by-step walkthrough of the first couple of excercises check out the following blog posts:
+
+* [Is this TouchDesigner?]([https://www.zoesandoval.com/blog/2026/3/24/is-this-touchdesigner])
+* [Is this Interactivty?]([https://www.zoesandoval.com/blog/2026/3/24/is-this-interacttivity])
+
 
 ![image](readme-assets/media-01.png)
 
