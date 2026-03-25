@@ -18,7 +18,7 @@ This repo contains all of the exercises we've gone over together in the workshop
 To see a step-by-step walkthrough of the first couple of excercises check out the following blog posts:
 
 * [Is this TouchDesigner?](https://www.zoesandoval.com/blog/2026/3/24/is-this-touchdesigner)
-* [Is this Interactivty?](https://www.zoesandoval.com/blog/2026/3/24/is-this-interacttivity)
+* [Is this Interactivity?](https://www.zoesandoval.com/blog/2026/3/24/is-this-interactivity)
   
 <br>
   
