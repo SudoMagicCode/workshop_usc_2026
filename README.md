@@ -17,10 +17,11 @@ This repo contains all of the exercises we've gone over together in the workshop
 
 To see a step-by-step walkthrough of the first couple of excercises check out the following blog posts:
 
-* [Is this TouchDesigner?]([https://www.zoesandoval.com/blog/2026/3/24/is-this-touchdesigner])
-* [Is this Interactivty?]([https://www.zoesandoval.com/blog/2026/3/24/is-this-interacttivity])
-
-
+* [Is this TouchDesigner?](https://www.zoesandoval.com/blog/2026/3/24/is-this-touchdesigner)
+* [Is this Interactivty?](https://www.zoesandoval.com/blog/2026/3/24/is-this-interacttivity)
+  
+<br>
+  
 ![image](readme-assets/media-01.png)
 
 The first time you open any new application it can be frustrating or confusing as you try to understand how the interface works. TouchDesigner is a node based toolkit, and while it's similar to many tools, it's also distinctly unique. We'll take a little time to cover the basics of getting around the environment, and how to understand what we're seeing. Before you know it you'll be zooming around your networks like it's second nature.
