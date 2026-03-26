@@ -69,6 +69,8 @@ While it’s great to see how we connect operators of like families together, mo
 
 We'll also take a look at how we can work with [TouchDesigner Mediapipe plugin](https://github.com/torinmb/mediapipe-touchdesigner) in our projects: from downloading it from the main repo, optimizing for project performance, smoothing and manipulating sensor data, to simple techniques for realtime hand-tracking.
 
+Please visit the TouchDesigner MediaPipe [releases page](https://github.com/torinmb/mediapipe-touchdesigner/releases) to download the plugin. Once downloaded, drag and drop the MediaPipe.tox into the Base Rendering component. To finish getting setup: (1) connect the DAT output for hand tracking to the hand_tracking COMP and (2) connect the TOP output to the 'null_webcam' to get the webcam video from MediaPipe. 
+
 ![image](readme-assets/media-03.png)
 
 <br>
@@ -93,8 +95,6 @@ Learn more at [TouchDesigner Basic Render Setup](https://learn.derivative.ca/cou
 
 * [Learn TouchDesigner from Derivative]
 * [The Interactive & Immersive HQ]
-* [TouchOSC]
-* [OSC]
 * [Visual Studio Code]
 * [Derivative Blog]
 * [TouchDesigner MediaPipe Plugin]
